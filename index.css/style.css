@@ -1,0 +1,24 @@
+ 
+body{
+    color:#a49d40b4 ;background-color:#92a440b2 ;
+  
+}
+            
+
+actualité{ 
+     position: absolute;
+     font-size: 100px;
+    background: chartreuse;
+}
+
+full-page{
+    background: #345e4a5e;
+    background: size 100px; ;
+   }
+
+happy{
+       font-size: 100px;
+       font-weight:bold;
+       padding-left:"300px";
+       background: black;
+   } 
